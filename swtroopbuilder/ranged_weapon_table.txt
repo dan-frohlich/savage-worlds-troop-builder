@@ -1,0 +1,78 @@
+#Type	Range	Damage	Cost	Min Str.	Notes
+Medieval
+rock	3/6/12	Str+d6	1	-
+Axe, throwing	3/6/12	Str+d6	5	-
+Bow	12/24/48	2d6	6	d6
+Crossbow	12/24/48	2d6	12	d6	AP 2, Snapfire
+Dagger, Throwing	3/6/12	Str+d4	1	-
+English Long Bow	15/30/60	2d6	7	d8
+Knife, Throwing	3/6/12	Str+d4	6	-
+Sling	4/8/16	Str+d4	1	-
+Spear, Throwing	3/6/12	Str+d6	5	d6
+Black Powder
+Brown Bess (.75)	10/20/40	2d8	10	d6	Snapfire
+Blunderbuss (8G)	10/20/40	1-3d6*	6	d6	Snapfire
+Flintlock Pistol (.60)	5/10/20	2d6+1	6	-	Snapfire
+Kentucky Rifle (.45)	15/30/60	2d8	17	d6	AP 2, Snapfire
+Springfield (.52)	15/30/60	2d8	11	d6	Snapfire
+Modern
+Pistol
+Derringer (.44)	5/10/20	2d6+1	9	-	AP 1
+Colt Dragoon (.44)	12/24/48	2d6+1	7	-
+Colt 1911 (.45)	12/24/48	2d6+1	10	-	AP 1
+S&W (.44)	12/24/48	2d6+1	10	-	AP 1
+Desert Eagle (.50)	15/30/60	2d8	17	-	AP 2
+Glock (9mm)	12/24/48	2d6	9	-	AP 1
+Peacemaker (.45)	12/24/48	2d6+1	10	-	AP 1
+Ruger (.22)	10/20/40	2d6-1	5	-
+S&W (.357)	12/24/48	2d6+1	10	-	AP 1
+Submachine Guns
+H&K MP5 (9mm)	12/24/48	2d6	29	-	AP 1, ROF 3
+MP40 (9mm)	12/24/48	2d6	29	-	AP 1, ROF 3
+Tommy Gun (.45)	12/24/48	2d6+1	30	-	AP 1, ROF 3
+Uzi (9mm)	12/24/48	2d6	29	-	AP 1, ROF 3
+
+Shotguns
+Double-Barrel (12g)	12/24/48	1-3d6	16	-	See notes, RoF 1-2
+Pump Action (12g)	12/24/48	1-3d6	6	-	See notes
+Sawed-Off DB (12g)	5/10/20	1-3d6	5	-	See notes
+Streetsweeper (12g)	12/24/48	1-3d6	6	-	See notes
+Rifles
+Barrett (.50)	50/100/200	2d10	32	d8	AP 4, Snapfire, HW
+M1 (.30)	24/48/96	2d8	18	d6	AP 2
+Kar98 (7.92)	24/48/96	2d8	18	d6	AP 2
+Sharps Big 50 (.50)	30/60/120	2d10	23	d8	AP 2, Snapfire
+Spencer Carbine (.52)	20/40/80	2d8	17	-	AP 2
+Winchester '76 (.45-.47)	24/48/96	2d8	18	d6	AP 2
+Assault Rifles
+AK47 (7.62)	24/48/96	2d8+1	39	d6	AP 2, RoF 3
+H&K G3 (.308)	24/48/96	2d8	38	d6	AP 2, RoF 3
+M-16 (5.56)	24/48/96	2d8	38	-	AP 2, RoF 3
+Steyr AUG (5.56)	24/48/96	2d8	38	-	AP 2, RoF 3
+Machine Guns
+Gatling (.45)	24/48/96	2d8	38	-	AP 2, May not move, RoF 3
+M2 Browning (.50)	50/100/200	2d10	52	-	AP 4, May not move, HW, RoF 3
+M1919 (.30)	24/48/96	2d8	38	-	AP 2, May not move, RoF 3
+M60 (7.62)	30/60/120	2d8+1	40	d8	AP 2, Snapfire, RoF 3
+MG42 (7.92)	30/60/120	2d8+1	50	d8	AP 2, Snapfire, RoF 4
+SAW (5.56)	30/60/120	2d8	49	d8	AP 2, Snapfire, RoF 4
+Futuristic
+Laser Pistol	15/30/60	1-3d6	7	-
+Laser Rifle	30/60/120	1-3d6	29	d6
+Laser MG	50/100/200	1-3d6	52	d8
+
+Special Weapons
+Cannon			43	-	
++ Shot	50/100/200	3d6+1	56	-	AP 4, See notes, HW
++ Shell	50/100/200	3d6	53	-	MBT
++ Canister	24" path	2d6	8	-	See notes
+Bazooka	24/48/96	4d8	77	-	MBT, AP 9, Snapfire, HW
+Panzershrek	15/30/60	4d8	95	-	MBT, AP 17, Snapfire, HW
+Panzerfaust	12/24/48	4d8	102	-	MBT, AP 20, Snapfire, HW
+M203 Gren. Launcher	24/48/96	4d8	50	-	MBT, Snapfire
+M72 LAW Rocket	24/48/96	4d8+2	142	-	MBT, AP 30, Snapfire, HW
+AT-4	24/48/96	4d8+2	172	-	MBT, AP 40, Snapfire, HW
+Flamethrower	Cone	2d10	48	d6	Ignores Armor (100 points)
+Mk67 Grenade	5/10/20*	3d6	23	-	MBT
+Potato Masher	5/10/20*	3d6-2	21	-	MBT
+

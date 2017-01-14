@@ -1,0 +1,46 @@
+a { color:blue; text-decoration:none; background-color: #AAF; border: thin solid blue;}
+span.disabled_link { color:black; text-decoration:none; background-color: #AFA; border: thin solid blue;}
+img { border: none; padding: 0px;}
+th {
+    text-align:right;
+}
+input.number{
+  text-align:right;
+  width: 40px;
+}
+.known_issues_title{
+    padding: 3px;
+    padding-left: 15px;
+    font-weight: bold;
+    background-color: #ffc;
+    float:left;
+    border: 10px solid #ffc;
+}
+.known_issues_issue{
+    padding: 3px;
+    font-weight: normal;
+    background-color: #ffc;
+}
+.known_issues_tag{
+    padding: 10px;
+    font-style: italic;
+    text-alignment:right;
+}
+.change_log_title{
+    padding: 3px;
+    padding-left: 15px;
+    font-weight: bold;
+    background-color: #cfc;
+    float:left;
+    border: 10px solid #cfc;
+}
+.change_log_issue{
+    padding: 3px;
+    font-weight: normal;
+    background-color: #cfc;
+}
+.change_log_tag{
+    padding: 10px;
+    font-style: italic;
+    background-color: #cfc;
+}
